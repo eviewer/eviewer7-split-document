@@ -1,0 +1,108 @@
+[
+  {
+    "annType": "Polygon",
+    "borderWidth": "5",
+    "fillColor": "#96FEFE",
+    "fillOpacity": "0.5",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Highlight",
+    "fillColor": "#FFFF00",
+    "fillOpacity": "0.4"
+  },
+  {
+    "annType": "Cloud",
+    "borderWidth": "5",
+    "borderOpacity": "0.5",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Rectangle",
+    "borderWidth": "5",
+    "fillColor": "#96FEFE",
+    "borderOpacity": "0.5",
+    "fillOpacity": "0.5",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Circle",
+    "borderWidth": "5",
+    "fillColor": "#96FEFE",
+    "borderOpacity": "0.5",
+    "fillOpacity": "0.5",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Pen",
+    "borderWidth": "5",
+    "borderOpacity": "1.0",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Line",
+    "borderWidth": "5",
+    "borderOpacity": "1.0",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Stickynote",
+    "borderWidth": "1",
+    "fillColor": "#FFFF00"
+  },
+  {
+    "annType": "Arrow",
+    "borderWidth": "5",
+    "borderOpacity": "1.0",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "Text",
+    "borderWidth": "5",
+    "borderColor": "#000000",
+    "fillColor": "#ffffff",
+    "fillOpacity": "0.5",
+    "fontColor": "#000000",
+    "fontOpacity": "1",
+    "fontFace": "Helvetica",
+    "fontSize": "48",
+    "wrapText": "true"
+  },
+  {
+    "annType": "Button",
+    "fillColor": "#00A2E8",
+    "fontColor": "#000000"
+  },
+  {
+    "annType": "PolyLine",
+    "borderWidth": "5",
+    "borderOpacity": "1.0",
+    "borderColor": "#FF0000"
+  },
+  {
+    "annType": "CheckPoint",
+    "fillColor": "#96FEFE"
+  },
+  {
+    "annType": "Stamp",
+    "borderColor": "#000000",
+    "borderWidth": "5",
+    "fillColor": "#ffff00",
+    "fontColor": "#000000",
+    "fontFace": "Helvetica",
+    "fontSize": "48"
+  },
+  {
+    "annType": "Drawsignature",
+    "borderWidth": "0",
+    "fillColor": "#FFFFFF",
+    "fillOpacity": "0.01",
+    "borderColor": "#FFFFFF"
+  },
+  {
+    "annType": "Redaction",
+    "borderWidth": "0",
+    "fillColor": "#000000",
+    "fillOpacity": "0.3"
+  }
+]

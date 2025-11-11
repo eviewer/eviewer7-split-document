@@ -1,0 +1,216 @@
+{
+	"shortcuts": [{
+			"key": "Alt+=",
+			"command": "zoomin",
+			"title":"Zoom In"
+		}, {
+			"key": "Alt+-",
+			"command": "zoomout",
+			"title":"Zoom Out"
+		},
+		{
+			"key": "Shift+S",
+			"command": "save",
+			"title":"Save"
+		}, {
+			"key": "Ctrl+Shift+X",
+			"command": "export",
+			"title":"Export"
+		},
+		{
+			"key": "Shift+P",
+			"command": "print",
+			"title":"Print"
+		}, {
+			"key": "Shift+HOME",
+			"command": "firstpage",
+			"title":"First Page"
+		},
+		{
+			"key": "Shift+END",
+			"command": "lastpage",
+			"title":"Last Page"
+		},
+		{
+			"key": "Alt+PAGEUP",
+			"command": "previouspage",
+			"title":"Previous Page"
+		},
+		{
+			"key": "Alt+PAGEDOWN",
+			"command": "nextpage",
+			"title":"Next Page"
+		},
+		{
+			"key": "Shift+R",
+			"command": "rotateclockwise",
+			"title":"Rotate"
+		},
+		{
+			"key": "Ctrl+Alt+B",
+			"command": "thumbnails",
+			"title":"Thumbnails"
+		},
+		{
+			"key": "Ctrl+Shift+Y",
+			"command": "redaction",
+			"title":"Redact Area"
+		},
+		{
+			"key": "Alt+P",
+			"command": "smart redaction",
+			"title":"Smart Redaction"
+		},
+		{
+			"key": "Shift+Z",
+			"command": "redact view mode",
+			"title":"Redact View Mode"
+		},
+		{
+			"key": "Ctrl+Alt+L",
+			"command": "line",
+			"title":"Line"
+		},
+		{
+			"key": "Ctrl+Alt+R",
+			"command": "rectangle",
+			"title":"Rectangle"
+		},
+		{
+			"key": "Ctrl+Alt+C",
+			"command": "circle",
+			"title":"Circle"
+		},
+		{
+			"key": "Shift+Alt+O",
+			"command": "arrow",
+			"title":"Arrow"
+		},
+		{
+			"key": "Ctrl+Alt+P",
+			"command": "pen",
+			"title":"Pen"
+		},
+		{
+			"key": "Shift+Alt+H",
+			"command": "highlight",
+			"title":"Highlight"
+		},
+		{
+			"key": "Shift+Alt+K",
+			"command": "text",
+			"title":"Text"
+		},
+		{
+			"key": "Shift+Alt+S",
+			"command": "stamp",
+			"title":"Stamp"
+		},
+		{
+			"key": "Shift+Alt+M",
+			"command": "polyline",
+			"title":"Polyline"
+		},
+		{
+			"key": "Shift+Alt+N",
+			"command": "polygon",
+			"title":"Polygon"
+		},
+		{
+			"key": "Shift+Ctrl+Q",
+			"command": "checkpoint",
+			"title":"Checkpoint"
+		},
+		{
+			"key": "Ctrl+Alt+W",
+			"command": "watermark",
+			"title":"Watermark"
+		},
+		{
+			"key": "Ctrl+M",
+			"command": "show-hide annotations",
+			"title":"Show-Hide Annotations"
+		},
+		{
+			"key": "DELETE",
+			"command": "delete annotations",
+			"title":"Delete Annotations"
+		},
+		{
+			"key": "Ctrl+1",
+			"command": "actual size",
+			"title":"Actual Size"
+		},
+		{
+			"key": "Ctrl+2",
+			"command": "fit to width",
+			"title":"Fit To Width"
+		},
+		{
+			"key": "Ctrl+3",
+			"command": "fit to window",
+			"title":"Fit To Window"
+		},
+		{
+			"key": "Ctrl+X",
+			"command": "cut",
+			"title":"Cut"
+		},
+		{
+			"key": "Ctrl+DELETE",
+			"command": "delete page",
+			"title":"Delete Page"
+		},
+		{
+			"key": "Ctrl+C",
+			"command": "copy",
+			"title":"Copy"
+		},
+		{
+			"key": "Ctrl+V",
+			"command": "paste",
+			"title":"Paste"
+		},
+		{
+			"key": "Ctrl+Shift+F",
+			"command": "search",
+			"title":"Search"
+		},
+		{
+			"key": "Shift+<",
+			"command": "previous search",
+			"title":"Previous Search"
+		},
+		{
+			"key": "Shift+>",
+			"command": "next search",
+			"title":"Next Search"
+		},
+		{
+			"key": "Alt+I",
+			"command": "version number",
+			"title":"Version Number"
+		},
+		{
+			"key": "Alt+H",
+			"command": "show keyboard hint",
+			"title":"Show Hotkeys Hint"
+		},
+		{
+			"key": "Alt+T",
+			"command": "documentSwitching",
+			"title": "Document Switch"
+		},
+		{
+          "key": "Ctrl+Z",
+          "command": "undo",
+          "title": "Undo"
+        },
+        {
+          "key": "Ctrl+Y",
+          "command": "redo",
+          "title": "Redo"
+        }
+	]
+
+}

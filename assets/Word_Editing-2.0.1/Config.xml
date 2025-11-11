@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <TraceEnable>0</TraceEnable>
+	<MajorVersion>2</MajorVersion>
+	<MinorVersion>0</MinorVersion>
+	<InternalVersion>1</InternalVersion>
+	<PortNo>2021</PortNo>
+</Config>

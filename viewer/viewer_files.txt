@@ -1,0 +1,6 @@
+You can download the latest stable build from:
+https://www.npmjs.com/package/@mstechusa/eviewer7
+
+npm i @mstechusa/eviewer7
+
+and place all the static content script and style sheets here in the viewer folder.

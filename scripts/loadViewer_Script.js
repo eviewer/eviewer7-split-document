@@ -1,6 +1,6 @@
 var eViewerObj = null;
 let licenseKey =
-  "QX0ZUhau5qt0HBLnDQ5XcL+Ih625vvsKCk3fjacNqa/3+F6sDkQFUkso2z6Fi9z/w7MhHwhp0K7q0eX/agSjfY/q9HOBHnr7f4TY81KZosgmOKn0PnHHc0te9+Ps4anZ8G0Ub1lsIO2vL6CNpB5yjHeWY1E+0M7GFQYdtXowd4brMwfESdAvLEPibII77mwVmNvGzyEzNUpX1Krknne2vJzI8+jKs93zu0ADdxPUz1aPqeTTVhwokyPx6aE5aMQJA7/vTBJiIha4h7YX3oWjhjNtiI2q2FQL9ohluuuWJclg7Y/Z3FAmQj9voDjky+h+1uGxdILmpcqyVaKz0es3QxSCUa4wX+tA+4OuC/9p6bLVjLUQ91rGLONBLS0qSyL0PhuJRe6+uR84Yxjk51ap6j0Ot7NHUA4sGtlY/Acqjh1PB75ZdIgzuGaX0ZNyWl5nQsCU8B8ivbEQiIc9iJAi9+UIjcLuVI/nBSfKASsKv8A=";
+  "PROVIDED_BY_MST";
 
 function loadDefaultComponent() {
   eViewerObj = new eViewerApp();

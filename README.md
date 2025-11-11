@@ -139,7 +139,7 @@ function callRedoApi() {
 Experience the live version of this sample here:
 
 [Live
-Demo](https://mst2019b2.eastus.cloudapp.azure.com:8443/eviewer7-document-viewing/#/dashboard/dashboard/38)
+Demo](https://mst2019b2.eastus.cloudapp.azure.com:8443/eviewer7-split-document)
 
 ## **License**
 

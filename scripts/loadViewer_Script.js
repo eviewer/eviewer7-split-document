@@ -53,7 +53,7 @@ function loadDefaultComponent() {
 
 async function loadUserPreferences() {
   try {
-    const response = await fetch("/split_document/assets/UserPreferences.json");
+    const response = await fetch("/eviewer7-split-document/assets/UserPreferences.json");
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
@@ -69,7 +69,7 @@ async function loadUserPreferences() {
 
 async function loadShortcutPreferences() {
   try {
-    const response = await fetch("/split_document/assets/shortcutkeys.json");
+    const response = await fetch("/eviewer7-split-document/assets/shortcutkeys.json");
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
@@ -86,7 +86,7 @@ async function loadShortcutPreferences() {
 async function loadAnnPropertyPreferences() {
   try {
     const response = await fetch(
-      "/split_document/assets/annotationProperty.json"
+      "/eviewer7-split-document/assets/annotationProperty.json"
     );
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
